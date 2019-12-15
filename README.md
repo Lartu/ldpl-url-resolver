@@ -34,7 +34,7 @@ ready to be used.
 
 ## 📚 Documentation
 
-This library adds a single new statements to the language:
+This library adds a single new statement to the language:
  - `resolve url <text> in <text-var>` resolves the url `<text>` and stores the resulting IP in `<text-var>`.
 
 ## 🏫 Example
