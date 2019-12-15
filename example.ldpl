@@ -1,0 +1,6 @@
+include "ldpl-url-resolver/ldpl-url-resolver.ldpl"
+data:
+  ip is text
+procedure:
+  resolve url "www.ldpl-lang.org" in ip
+  display "The ip for www.ldpl-lang.org is " ip lf
