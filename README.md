@@ -1,4 +1,4 @@
-![The LDPL URL Resolver Library](images/ldpl-irc-logo.png)
+![The LDPL URL Resolver Library](images/liblogo.png)
 
 ![Version](https://img.shields.io/badge/version-1.0-brown.svg)
 ![License](https://img.shields.io/badge/license-MIT-yellow)
