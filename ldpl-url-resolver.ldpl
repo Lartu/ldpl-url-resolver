@@ -10,7 +10,7 @@
 # | from https://www.binarytides.com/hostname-to-ip-address-c-sockets-linux/ by Silver Moon |
 # +-----------------------------------------------------------------------------------------+
 
-extension "ldpl-hostname-ip.cpp"
+extension "ldpl-url-resolver.cpp"
 
 data:
 urlresolver.hostname is external text
