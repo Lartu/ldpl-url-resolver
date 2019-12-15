@@ -48,5 +48,5 @@ procedure:
   display "The ip for www.ldpl-lang.org is " ip lf
 ```
 
-## ⚖ License
+## :scroll: License
 This library is released under the MIT License.
